@@ -1,4 +1,4 @@
-# Amazon-Data-Analysis
+# Amazon-Sales-Analysis
 
 ### Overview
 
