@@ -1,10 +1,10 @@
 # Amazon-Data-Analysis
 
-##Overview
+### Overview
 
 This project is a Sales Analysis Dashboard created in Microsoft Power BI using a dataset based on Amazon products. The dashboard provides a detailed visual representation of sales performance across multiple dimensions such as time, product categories, and customer interactions.
 
-Purpose
+### Purpose
 
 The primary objective of this dashboard is to:
 
@@ -18,7 +18,7 @@ Provide insights into customer engagement through reviews.
 
 Assist stakeholders in making data-driven decisions.
 
-Key Features
+### Key Features
 
 YTD & QTD Sales KPIs: Highlight overall performance in terms of revenue and units sold.
 
